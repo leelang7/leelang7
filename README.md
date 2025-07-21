@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Seokchang!
 
-<!--
-**leelang7/leelang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML engineer | 🦷 Medical AI Specialist | 🛠 Full-stack Dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+- 🔬 AI/ML: PyTorch, TensorFlow, Scikit-learn, YOLO
+- 🖼️ CV: OpenCV, Detectron2, segmentation models
+- 🔗 Backend: Flask, FastAPI, MySQL, MongoDB
+- ⚙️ DevOps: Docker, Anaconda, Ubuntu Server
+- 📱 Cross-platform: Flutter, React Native, Expo
+
+---
+
+## 📊 GitHub Stats
+
+![Seokchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseokchang&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: leeseokchang@example.com
+- 🌐 Blog: [My Dev Blog](https://leeseokchang.dev)
+- 🔗 LinkedIn: [linkedin.com/in/leeseokchang](https://linkedin.com/in/leeseokchang)
