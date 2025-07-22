@@ -52,7 +52,7 @@ English speaking education platform based on streaming system(2012) - Just Speak
 
 ---
 
-## 🏛️ Papers and Patents
+## 🏛️ Papers(lead author) and Patents
 
 Research on Intelligent Anomaly Detection System Based on Real-Time Atypical Object Recognition Technique (Paper, 2022)
 
