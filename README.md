@@ -24,7 +24,7 @@ Researcher | Korea Hydro & Nuclear Power Co. | 19. 4 ~ 20. 3
 
 IT Engineer | Softkorea Co.(Southeast Asia) | 17. 2 ~ 18. 3 
 
-Consultant | S & B Solution Co. / Soft korea | 16. 2 ~ 16. 11 
+Consultant | S & B Solution Co. | 16. 2 ~ 16. 11 
 
 Engineer | Korea Copyright Commission | 13. 8 ~ 15. 7
 
