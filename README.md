@@ -34,6 +34,8 @@ CEO / CTO | Tdoa Co. | 12. 4 ~ 13. 7
 
 ## 🏆 **AWARD**
 
+"Remote Oral Healthcare Support Platform Based on Generative AI and Multi-Diagnostic Models" - Projects led, Free Assignment Category Award(2025)
+
 Korea Multimedia Society, Outstanding Paper Presentation Award(2021)
 
 Small and Medium Business Administration, Youth Frontier Contest (2012)
