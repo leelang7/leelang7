@@ -9,7 +9,7 @@
 - 🔬 AI/ML: PyTorch, TensorFlow, Scikit-learn, YOLO, SelfDriving, LLM
 - 🖼️ CV: OpenCV, Detectron2, segmentation models
 - 🔗 Backend: Flask, FastAPI, MySQL, MongoDB, MariaDB, VectorDB
-- ⚙️ DevOps: Docker, Anaconda, Ubuntu Server
+- ⚙️ DevOps: Docker, Anaconda, Ubuntu Server, ROS2
 - 📱 Cross-platform: Flutter, React Native, Expo
 
 ---
