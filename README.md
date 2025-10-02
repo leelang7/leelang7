@@ -34,6 +34,8 @@ CEO / CTO | Tdoa Co. | 12. 4 ~ 13. 7
 
 ## 🏆 **AWARD**
 
+"Intelligent Road Safety Defect Detection and Maintenance Platform" - Seoul AI Foundation Chairman's Award(2025, Seoul City)
+
 "Remote Oral Healthcare Support Platform Based on Generative AI and Multi-Diagnostic Models" - *Projects led, Free Assignment Category Award(2025, Ministry of Employment and Labor)
 
 Korea Multimedia Society, Outstanding Paper Presentation Award(2021, Korea Multimedia Society)
