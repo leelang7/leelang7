@@ -50,6 +50,8 @@ Startup Promotion Agency, Startup Activation Contest(2011, Small and Medium Busi
 
 ## 💼 Business & Project performance
 
+"AI-based Oral Drug Identification and Safe Dosage Support System" - *Projects led
+
 AI-based oral medication identification and safe administration support system(2025) - *Projects led
 
 Space-based information acquisition and sharing system using smartphones(2012) - Eagle Eye
