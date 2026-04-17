@@ -1,5 +1,3 @@
-좋습니다. 전체적으로 **표현 다듬기, 오탈자 수정, 톤 정리, 임팩트 강화** 기준으로 바로 리비전했습니다.
-
 ---
 
 # 👋 Hi, I'm Seokchang
@@ -110,13 +108,3 @@ Startup Promotion Agency, Small and Medium Business Administration (2011)
 ▶️ **YouTube**: [All That AI](https://www.youtube.com/@aidoer)
 
 ---
-
-추가로, 아래처럼 더 **링크드인/포트폴리오용으로 세련되게 한 줄 소개**도 붙일 수 있습니다.
-
-**AI/ML engineer and instructor specializing in medical AI, computer vision, autonomous systems, and production-ready full-stack AI services.**
-
-원하면 제가 이어서
-**1) 더 고급스럽게 다듬은 버전**,
-**2) 채용용 버전**,
-**3) 수상/사업 중심 버전**
-중 하나로 다시 정리해드리겠습니다.
