@@ -86,6 +86,7 @@ Startup Promotion Agency, Small and Medium Business Administration (2011)
 ## 🏛️ Papers & Patents
 
 ### Papers
+**See-ParkingNet: A Robust Imitation Learning Framework for Autonomous Mobile Robots via Geometric Perturbation of Synthetic Experts** (2026)
 
 **Research on Intelligent Anomaly Detection System Based on Real-Time Atypical Object Recognition Techniques** (2022)
 
