@@ -1,83 +1,95 @@
-# 👋 Hi, I'm Seokchang!
+👋 Hi, I'm Seokchang
 
-🚀 AI/ML Engineer/Instructor | 🦷 Medical AI Specialist | 🛣️ AutoPilot | 🛠 Full-stack Dev | 
+🚀 AI/ML Engineer & Instructor | 🦷 Medical AI Specialist | 🛣️ Autonomous Driving / Physical AI | 🛠 Full-stack Developer
 
----
+🧠 Tech Stack
 
-## 🧠 Tech Stack
+AI/ML: PyTorch, TensorFlow, Scikit-learn, YOLO, LLM, Self-Driving AI
+Computer Vision: OpenCV, Detectron2, Image Segmentation
+Backend: Flask, FastAPI, MySQL, MongoDB, MariaDB, Vector DB
+DevOps: Docker, Anaconda, Ubuntu Server, ROS2
+Cross-platform: Flutter, React Native, Expo
 
-- 🔬 AI/ML: PyTorch, TensorFlow, Scikit-learn, YOLO, SelfDriving, LLM
-- 🖼️ CV: OpenCV, Detectron2, segmentation models
-- 🔗 Backend: Flask, FastAPI, MySQL, MongoDB, MariaDB, VectorDB
-- ⚙️ DevOps: Docker, Anaconda, Ubuntu Server, ROS2
-- 📱 Cross-platform: Flutter, React Native, Expo
+📊 Career
 
----
+AI Instructor | Korea IT Academy, Future Convergence Education Center, Elice Group
+Oct 2023 – Present
 
-## 📊 **CARRER**
+Associate Researcher | Korea Electric Power Corporation
+Jun 2020 – May 2023
 
-AI Instructor | Korea IT Academy, Future Convergence Education Center, Elice Group | 23. 10 ~ 
+Researcher | Korea Hydro & Nuclear Power Co.
+Apr 2019 – Mar 2020
 
-Associate Researcher | Korea Electric Power Corporation | 20. 6 ~ 23. 5 
+IT Engineer | Softkorea Co. (Southeast Asia)
+Feb 2017 – Mar 2018
 
-Researcher | Korea Hydro & Nuclear Power Co. | 19. 4 ~ 20. 3 
+Consultant | S & B Solution Co.
+Feb 2016 – Nov 2016
 
-IT Engineer | Softkorea Co.(Southeast Asia) | 17. 2 ~ 18. 3 
+Engineer | Korea Copyright Commission
+Aug 2013 – Jul 2015
 
-Consultant | S & B Solution Co. | 16. 2 ~ 16. 11 
+CEO / CTO | Tdoa Co.
+Apr 2012 – Jul 2013
 
-Engineer | Korea Copyright Commission | 13. 8 ~ 15. 7
+🏆 Awards
 
-CEO / CTO | Tdoa Co. | 12. 4 ~ 13. 7
+AI-based Oral Drug Identification and Safe Dosage Support System
+Excellence Award (2025, Chairman’s Award, Korea Disabled People’s Development Institute)
+Project Lead
 
----
+Intelligent Road Safety Defect Detection and Maintenance Platform
+Chairman’s Award (2025, Seoul AI Foundation)
 
-## 🏆 **AWARD**
+Remote Oral Healthcare Support Platform Based on Generative AI and Multi-Diagnostic Models
+Award Winner, Free Assignment Category (2025, Ministry of Employment and Labor)
+Project Lead
 
-"AI-based Oral Drug Identification and Safe Dosage Support System" - Wins Excellence Award(2025, Chairman's Award from the Korea Disabled People's Foundation) - *Projects led
+Outstanding Paper Presentation Award
+Korea Multimedia Society (2021)
 
-"Intelligent Road Safety Defect Detection and Maintenance Platform" - Seoul AI Foundation Chairman's Award(2025, Seoul City)
+Youth Frontier Contest Award
+Gyeonggi Regional Office, Small and Medium Business Administration (2012)
 
-"Remote Oral Healthcare Support Platform Based on Generative AI and Multi-Diagnostic Models" - *Projects led, Free Assignment Category Award(2025, Ministry of Employment and Labor)
+Startup Activation Contest Award
+Startup Promotion Agency, Small and Medium Business Administration (2011)
 
-Korea Multimedia Society, Outstanding Paper Presentation Award(2021, Korea Multimedia Society)
+💼 Business & Project Experience
 
-Small and Medium Business Administration, Youth Frontier Contest (2012, Gyeonggi Small and Medium Business Administration)
+AI-based Oral Drug Identification and Safe Dosage Support System (2025)
+Project Lead
 
-Startup Promotion Agency, Startup Activation Contest(2011, Small and Medium Business Administration)
+AI-based Oral Medication Identification and Safe Administration Support System (2025)
+Project Lead
 
----
+Space-based Information Acquisition and Sharing System Using Smartphones (2012)
+Eagle Eye
 
-## 💼 Business & Project performance
+Smart Hub Platform (2012)
 
-"AI-based Oral Drug Identification and Safe Dosage Support System" - *Projects led
+Streaming-based English Speaking Education Platform (2012)
+Just Speaking
 
-AI-based oral medication identification and safe administration support system(2025) - *Projects led
+🏛️ Papers & Patents
+Papers
 
-Space-based information acquisition and sharing system using smartphones(2012) - Eagle Eye
+Research on Intelligent Anomaly Detection System Based on Real-Time Atypical Object Recognition Techniques (2022)
 
-Smart hub platform(2012)
+Self-learning Safety Monitoring System Using BLE RSSI and Object Distance Measurement Techniques (2022)
 
-English speaking education platform based on streaming system(2012) - Just Speaking
+Intelligent Image Integrated Analysis System Based on Image Turning Points and Object Detection (2021)
 
----
+Patents
 
-## 🏛️ Papers(lead author) and Patents
+Atypical Object Recognition Method and Device Using Image Turning Point Application (2022)
 
-Research on Intelligent Anomaly Detection System Based on Real-Time Atypical Object Recognition Technique (Paper, 2022)
+Real-time Object Identification System and Method Using Object Distance Estimation Techniques (2022)
 
-Self-learning Safety Monitoring System using BLE RSSI and Object Distance Measurement Technique (Paper, 2022)
+📫 Contact
 
-Intelligent Image Integrated Analysis System Based on Image Turning Point and Object Detection (Paper, 2021)
+✉️ Email: leescvsir@gmail.com
 
-Atypical Object Recognition Method and Device with Image Turning Point Application (Patent, 2022)
+🌐 Blog: Let's Dive into AI
 
-Real-time Object Identification System and Method Using Object Distance Estimation Technique (Patent, 2022)
-
----
-
-## 📫 Contact
-
-- ✉️ Email : leescvsir@gmail.com
-- 🌐 Blog : [Let's dive into AI](https://leelang7.github.io/)
-- ▶️ Youtube : [AIdoer - YouTube](https://www.youtube.com/@aidoer)
+▶️ YouTube: All That AI
