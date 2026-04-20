@@ -18,8 +18,7 @@
 
 ## 📊 Career
 
-**Adjunct Professor / AI Specialist Lecturer at Korea University of Technology and Education
-r** | Korea IT Academy, Future Convergence Education Center, Elice Group, EST soft, Korea University of Technology and Education
+**Adjunct Professor / AI Specialist Lecturer** | Korea IT Academy, Future Convergence Education Center, Elice Group, EST soft, Korea University of Technology and Education
 *Oct 2023 – Present*
 
 **Associate Researcher** | Korea Electric Power Corporation
