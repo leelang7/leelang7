@@ -127,9 +127,52 @@
 - **AI-based Oral Drug Identification & Safe Dosage Support System** (2025) — *Project Lead*
 - **Remote Oral Healthcare Support Platform** (GenAI + Multi-Diagnostic Models, 2025) — *Project Lead*
 - **Intelligent Road Safety Defect Detection & Maintenance Platform** (2025)
+- **[Sign-lang](https://github.com/leelang7/Sign-lang)** — Real-time Korean Sign Language MVP (MediaPipe + LSTM, 36/36 verified)
 - **Eagle Eye** — Space-based Information Acquisition and Sharing System Using Smartphones (2012)
 - **Just Speaking** — Streaming-based English Speaking Education Platform (2012)
 - **Smart Hub Platform** (2012)
+
+<br/>
+
+## 💡 &nbsp;Proposed Features & Innovations in Pipeline
+
+> 진행 중·예정인 기능 제안. 현재 베이스라인 파이프라인을 **양방향 통역 보조 시스템 + Physical AI 응용**까지 확장하는 방향.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🤟 &nbsp;Sign Language Stack ([Sign-lang](https://github.com/leelang7/Sign-lang))
+
+- **🆎 지화(指話) Fallback** — 단어집에 없는 이름·고유명사·숫자를 한글 자모로 인식. 단어 모델/지화 모델 자동 라우팅.
+- **🧩 LLM 후처리 (Gloss → 자연 한국어)** — KSL 글로스 시퀀스를 LLM이 어순·어미 보정. SOV→SVO + 자연스러운 표현.
+- **🔁 양방향 라이브 캡셔닝** — 농인 수어 → 청인 자막+TTS / 청인 음성 STT → 농인 자막+수어 영상.
+- **🎭 비수지(非手指) 통합** — face_landmarks(긍정/부정/의문) 활용. KSL 문법 요소 반영.
+- **👤 Few-shot 개인화 적응** — 사용자 5~10번 시연으로 개인 수어 스타일 학습.
+- **📜 CSLR (Continuous Sign Recognition)** — Transformer + CTC. 단어가 아닌 문장 단위.
+
+</td>
+<td valign="top" width="50%">
+
+#### 🤖 &nbsp;Physical AI / Robotics
+
+- **🅿️ See-ParkingNet 확장** — Imitation Learning + 합성 전문가 perturbation. 다양한 도메인 일반화.
+- **🚗 End-to-End Self-Driving Stack** — Tesla 스타일 multi-camera HydraNet 영감. 카메라→플래닝 직결.
+- **🦾 수어→행동 매핑** — 인식된 수어 명령으로 로봇 행동 트리거 (Embodied AI).
+- **🛡 도로 안전 결함 자동 보정 라우팅** — 결함 탐지 + 이상 분포 기반 정비 우선순위.
+- **🩺 의료 AI ↔ Physical AI** — 약물 식별·복용 보조에 비전 + 음성 + 액션 결합.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-E31937?style=for-the-badge)
+![Open to](https://img.shields.io/badge/Open%20to-Collaboration-0a0a0a?style=for-the-badge)
+![Funding](https://img.shields.io/badge/Funding-Welcome-CC0000?style=for-the-badge)
+
+</div>
 
 <br/>
 
