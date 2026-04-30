@@ -1,64 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Seokchang%20Lee&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Instructor%20%C2%B7%20Researcher&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:E31937&height=210&section=header&text=Seokchang%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Physical%20AI%20%C2%B7%20Embodied%20Intelligence%20%C2%B7%20Autonomous%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Medical+AI+%E2%80%A2+Autonomous+Driving+%E2%80%A2+Physical+AI;LLM+%E2%80%A2+Computer+Vision+%E2%80%A2+Full-stack;Adjunct+Professor+%26+AI+Specialist+Lecturer" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=E31937&center=true&vCenter=true&width=760&lines=Imitation+Learning+%E2%80%A2+End-to-End+Neural+Networks;Vision+Transformer+%E2%80%A2+Self-Driving+Stack;Building+robots+that+perceive%2C+decide%2C+and+act" alt="typing"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=leelang7&style=flat-square&color=7C3AED&label=Profile+views" />
-<img src="https://img.shields.io/github/followers/leelang7?style=flat-square&color=7C3AED&label=Followers" />
+<img src="https://komarev.com/ghpvc/?username=leelang7&style=flat-square&color=E31937&label=Profile+views" />
+<img src="https://img.shields.io/github/followers/leelang7?style=flat-square&color=E31937&label=Followers" />
 
 </div>
 
 <br/>
 
-## &nbsp;Tech Stack
+## ⚡ &nbsp;Research Focus — Physical AI
+
+> **인지(Perception) → 판단(Planning) → 행동(Control)** 의 end-to-end 학습으로
+> 실세계에서 직접 움직이는 시스템을 만든다. Tesla 스타일 신경망 구조에 영감을 받아
+> **Imitation Learning** 기반 자율 주행/주차 모델 (See-ParkingNet, 2026) 연구 진행 중.
+
+<div align="center">
+
+![Physical AI](https://img.shields.io/badge/-Physical%20AI-E31937?style=for-the-badge&logoColor=white)
+![Embodied Intelligence](https://img.shields.io/badge/-Embodied%20Intelligence-1F1F1F?style=for-the-badge)
+![Imitation Learning](https://img.shields.io/badge/-Imitation%20Learning-E31937?style=for-the-badge)
+![End-to-End NN](https://img.shields.io/badge/-End--to--End%20Neural%20Net-1F1F1F?style=for-the-badge)
+![Vision Transformer](https://img.shields.io/badge/-Vision%20Transformer-E31937?style=for-the-badge)
+![Tesla-Inspired](https://img.shields.io/badge/-Tesla--Inspired%20Architecture-CC0000?style=for-the-badge&logo=tesla&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🛠 &nbsp;Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-#### AI / ML
+#### 🧠 &nbsp;AI / ML
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![ViT](https://img.shields.io/badge/-Vision%20Transformer-E31937?style=flat-square)
+![Imitation%20Learning](https://img.shields.io/badge/-Imitation%20Learning-E31937?style=flat-square)
+![End-to-End NN](https://img.shields.io/badge/-End--to--End%20NN-1F1F1F?style=flat-square)
+![Tesla NN](https://img.shields.io/badge/-Tesla--style%20NN-CC0000?style=flat-square&logo=tesla&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square)
 ![LLM](https://img.shields.io/badge/-LLM-8B5CF6?style=flat-square)
-![Self--Driving](https://img.shields.io/badge/-Self--Driving%20AI-EA4335?style=flat-square)
+![Self-Driving AI](https://img.shields.io/badge/-Self--Driving%20AI-EA4335?style=flat-square)
 
-#### Computer Vision
+#### 👁 &nbsp;Computer Vision
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Detectron2](https://img.shields.io/badge/-Detectron2-1976D2?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-00897B?style=flat-square)
-![Image%20Segmentation](https://img.shields.io/badge/-Image%20Segmentation-009688?style=flat-square)
+![Image Segmentation](https://img.shields.io/badge/-Image%20Segmentation-009688?style=flat-square)
 
-#### Backend
+#### 🔧 &nbsp;Backend
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Vector%20DB](https://img.shields.io/badge/-Vector%20DB-FF6F61?style=flat-square)
+![Vector DB](https://img.shields.io/badge/-Vector%20DB-FF6F61?style=flat-square)
 
 </td>
 <td valign="top" width="50%">
 
-#### DevOps & Robotics
+#### 🤖 &nbsp;Robotics & DevOps
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-#### Cross-platform
+#### 📱 &nbsp;Cross-platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React%20Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-#### Languages & Tools
+#### 💻 &nbsp;Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -72,7 +95,7 @@
 
 <br/>
 
-## &nbsp;Career
+## 💼 &nbsp;Career
 
 | 기간 | 직책 / 소속 |
 |---|---|
@@ -86,7 +109,7 @@
 
 <br/>
 
-## &nbsp;Awards
+## 🏆 &nbsp;Awards
 
 | 연도 | 상 | 비고 |
 |---|---|---|
@@ -99,7 +122,7 @@
 
 <br/>
 
-## &nbsp;Selected Projects
+## 🚀 &nbsp;Selected Projects
 
 - **AI-based Oral Drug Identification & Safe Dosage Support System** (2025) — *Project Lead*
 - **Remote Oral Healthcare Support Platform** (GenAI + Multi-Diagnostic Models, 2025) — *Project Lead*
@@ -110,7 +133,7 @@
 
 <br/>
 
-## &nbsp;Publications & Patents
+## 📄 &nbsp;Publications & Patents
 
 #### Papers
 - **See-ParkingNet**: A Robust Imitation Learning Framework for Autonomous Mobile Robots via Geometric Perturbation of Synthetic Experts (2026)
@@ -124,34 +147,34 @@
 
 <br/>
 
-## &nbsp;Stats
+## 📊 &nbsp;Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leelang7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelang7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=leelang7&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a0a0a&title_color=E31937&text_color=ffffff&icon_color=E31937" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelang7&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=E31937&text_color=ffffff" height="170" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=leelang7&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=leelang7&hide_border=true&background=0a0a0a&stroke=E31937&ring=E31937&fire=E31937&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc&currStreakLabel=E31937&sideLabels=ffffff" height="170" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=leelang7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=leelang7&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
 <br/>
 
-## &nbsp;Connect
+## 📫 &nbsp;Connect
 
 <div align="center">
 
 <a href="mailto:leescvsir@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-E31937?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://leelang7.github.io/">
-  <img src="https://img.shields.io/badge/Blog-Let's%20Dive%20into%20AI-1F2937?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blog-Let's%20Dive%20into%20AI-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/@aidoer">
   <img src="https://img.shields.io/badge/YouTube-All%20That%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -166,6 +189,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E31937,100:0a0a0a&height=80&section=footer" />
 
 </div>
